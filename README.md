@@ -1,136 +1,105 @@
-&lt;!-- Profile Header --&gt;
-&lt;p align="center"&gt;
-&lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I%27m+Sarthak+Saluja;Backend+Developer;FastAPI+%7C+Python+%7C+Cloud" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<div align="center">
 
-&lt;p align="center"&gt;
-&lt;img src="https://komarev.com/ghpvc/?username=Sarthakk404&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
-&lt;/p&gt;
+# Hi there, I'm Sarthak Saluja 👋
 
----
+### Python Backend Developer&nbsp;|&nbsp;Building AI-Powered APIs with FastAPI, Groq & Gemini
 
-## 🚀 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=Sarthakk404&style=for-the-badge&color=8e75b2)](https://github.com/Sarthakk404)
+[![GitHub Followers](https://img.shields.io/github/followers/Sarthakk404?style=for-the-badge&logo=github&color=181717&labelColor=black)](https://github.com/Sarthakk404?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-saluja)
 
-- 🎓 **MCA Graduate**
-- 💻 Backend Developer focused on building **scalable APIs with FastAPI**
-- 🐍 Currently working with **Python, FastAPI, Pydantic, SQLAlchemy & Docker**
-- ☁️ Learning **AWS, Linux, CI/CD & Cloud Infrastructure**
-- 🎯 **Goal:** Backend / Cloud / Platform Engineer
-- 📫 Reach me at: **sarthak.index@gmail.com**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧭 About Me
 
-**Languages**
-&lt;p&gt;
-&lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;
-&lt;/p&gt;
-
-**Backend**
-&lt;p&gt;
-&lt;img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /&gt;
-&lt;/p&gt;
-
-**Databases**
-&lt;p&gt;
-&lt;img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /&gt;
-&lt;/p&gt;
-
-**DevOps & Cloud**
-&lt;p&gt;
-&lt;img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /&gt;
-&lt;img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /&gt;
-&lt;/p&gt;
-
-**Tools**
-&lt;p&gt;
-&lt;img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /&gt;
-&lt;img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /&gt;
-&lt;/p&gt;
+- 🎓 Pursuing my **MCA (2025–2027)** at Sharda University, Greater Noida — BCA from LNCT, Bhopal
+- 🤖 Backend developer focused on **AI-powered platforms** built with FastAPI, Groq & Gemini
+- 🚀 Shipped 3 deployed AI projects, including **PrimoFlux** — an AI career platform with real-time job scraping and a dual-LLM engine
+- 🌱 Currently sharpening backend fundamentals & exploring scalable API design
+- 💼 Open to **backend / AI engineering internships & full-time roles**
+- 📍 Greater Noida, India&nbsp;&nbsp;·&nbsp;&nbsp;📫 sarthak.index@gmail.com
 
 ---
 
-## 📚 Currently Learning
+### 🛠️ Tech Stack
 
-- Docker (deep dive)
-- AWS Services
-- Linux Administration
-- CI/CD Pipelines
-- Redis Caching
-- Nginx
-- **Kubernetes** (Next up)
+**Languages & Frameworks**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## 🚀 Featured Projects
+**Database & Data Layer**
 
-### 📌 [PrimoFlux](https://github.com/Sarthakk404/PrimoFlux-AI-Powered-Career-Acceleration-Platform)
-&gt; AI-powered career acceleration platform — resume scoring, ATS analysis, live job discovery, skills gap detection, and personalized cover letter generation.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-**Tech Stack:** `FastAPI` `PostgreSQL` `Docker` `JWT` `React`
+**AI / LLM**
 
----
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### 📌 [DevCraft](https://github.com/Sarthakk404/DevCraft-AI-Powered-Project-Idea-Generator-Development-Planner)
-&gt; FastAPI-based app using LLMs to generate personalized software project ideas, feature breakdowns, and tech stack recommendations.
+**Tools & Deployment**
 
-**Tech Stack:** `FastAPI` `LLM APIs` `PostgreSQL` `Docker`
-
----
-
-### 📌 [CodesTrial](https://github.com/Sarthakk404/CodesTrial-AI-Powered-Code-Roasting)
-&gt; AI-powered content generator that roasts code and generates dynamic memes using LLM APIs and Imgflip.
-
-**Tech Stack:** `FastAPI` `React` `LLM APIs` `Railway` `Vercel`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-13111C?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-### 📌 [URL Shortener](https://github.com/Sarthakk404/URL_Shortener)
-&gt; Simple and efficient URL shortening service.
+### 🌟 Highlights
 
-**Tech Stack:** `FastAPI` `PostgreSQL` `Docker`
-
----
-
-## 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-&lt;img src="https://github-readme-stats.vercel.app/api?username=Sarthakk404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-&lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthakk404&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakk404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
-&lt;/p&gt;
+- 🔁 Built a **dual-LLM engine** (Groq LLaMA 3.3 70B + Gemini fallback) for fast, resilient AI responses
+- 🌐 Integrated **real-time job scraping** across 6 platforms (LinkedIn, Naukri, Internshala, Glassdoor, Wellfound, Indeed) via Apify
+- 🔐 Implemented **JWT authentication** and clean RESTful API design with FastAPI, SQLAlchemy & Pydantic
+- ☁️ Deployed full-stack AI applications end-to-end across Vercel, Railway & Render
 
 ---
 
-## 🤝 Connect With Me
+### 🏆 Featured Projects
 
-&lt;p align="left"&gt;
-&lt;a href="https://linkedin.com/in/sarthaksaluja" target="_blank"&gt;
-&lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-&lt;/a&gt;
-&lt;a href="mailto:sarthak.index@gmail.com"&gt;
-&lt;img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /&gt;
-&lt;/a&gt;
-&lt;/p&gt;
+| Project | Description | Tech Stack | Stars |
+|---|---|---|---|
+| [**PrimoFlux**](https://github.com/Sarthakk404/PrimoFlux-AI-Powered-Career-Acceleration-Platform) ([live](https://primo-flux-ai-powered-career-accele.vercel.app)) | AI career platform — resume scoring, live job discovery, skills-gap analysis & auto-generated cover letters | FastAPI · Groq · Gemini · PostgreSQL · Apify · JWT | ![Stars](https://img.shields.io/github/stars/Sarthakk404/PrimoFlux-AI-Powered-Career-Acceleration-Platform?style=social) |
+| [**DevCraft**](https://github.com/Sarthakk404/DevCraft-AI-Powered-Project-Idea-Generator-Development-Planner) ([live](https://dev-craft-ai-powered-project-idea-g.vercel.app)) | Generates personalized project ideas, feature breakdowns & learning roadmaps from structured LLM prompts | FastAPI · SQLAlchemy · SQLite · Groq | ![Stars](https://img.shields.io/github/stars/Sarthakk404/DevCraft-AI-Powered-Project-Idea-Generator-Development-Planner?style=social) |
+| [**GetHired**](https://github.com/Sarthakk404/GetHired) ([live](https://get-hired-alpha.vercel.app)) | RESTful job-application tracker API with full CRUD, status validation & analytics endpoints | FastAPI · PostgreSQL · SQLAlchemy · Pydantic | ![Stars](https://img.shields.io/github/stars/Sarthakk404/GetHired?style=social) |
 
 ---
 
-&lt;p align="center"&gt;
-&lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /&gt;
-&lt;/p&gt;
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthakk404&show_icons=true&theme=tokyonight&hide_border=true" alt="Sarthak's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakk404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Sarthakk404&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+### 📜 Certifications
+
+- **Cisco Networking Basics** — Cisco Networking Academy ([verify credential](https://www.credly.com/badges/ce7c079a-f0aa-4bc2-9b62-4e00986f9b80/public_url))
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/sarthak-saluja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sarthak.index@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Sarthakk404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<div align="center">
+<i>Thanks for stopping by — always open to backend & AI engineering conversations.</i>
+</div>
